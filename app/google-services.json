@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323109170308",
+    "firebase_url": "https://androidnotificationlearning.firebaseio.com",
+    "project_id": "androidnotificationlearning",
+    "storage_bucket": "androidnotificationlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323109170308:android:b196b2123dfef8e9e9a6d1",
+        "android_client_info": {
+          "package_name": "com.chessporg.androidnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323109170308-i4evvamro66otg7pjafvqsi0od54rii2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chessporg.androidnotification",
+            "certificate_hash": "9ca09c60e37e0546ad4be5e3ef31d9d9a7d02662"
+          }
+        },
+        {
+          "client_id": "323109170308-87uq71lbqrjuappl7mot1oj4u3dahn94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUv6557NjE4bIU_-AtdCfcwLDpET8C1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323109170308-87uq71lbqrjuappl7mot1oj4u3dahn94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
